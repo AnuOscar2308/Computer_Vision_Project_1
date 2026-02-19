@@ -46,6 +46,9 @@ The method is extended to support:
 - 3 regions -> 2 thresholds
 - 4 regions -> 3 thresholds
 
+**2 Region:**
+<img width="683" height="329.5" alt="2_Region_basket_balls-out" src="https://github.com/user-attachments/assets/6a1fcba2-6c6a-402d-a0e4-de4be560ee1c" />
+
 ### 4) Image Segmentation
 Pixels are assigned to regions based on thresholds and color-coded:
 - Region 1 -> Yellow
