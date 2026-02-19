@@ -48,9 +48,9 @@ The method is extended to support:
 
 **2 Region:**
 
-<img width="683" height="329.5" alt="2_Region_basket_balls-out" src="https://github.com/user-attachments/assets/6a1fcba2-6c6a-402d-a0e4-de4be560ee1c" />
-<img width="341" height="316" alt="2_Region_data13-out" src="https://github.com/user-attachments/assets/11228a68-fccb-4a59-afb8-c5bdb0aa340f" />
-<img width="1363" height="616" alt="2_Region_tiger1-out" src="https://github.com/user-attachments/assets/aec8ec29-9fc5-4b6f-b158-469388b42219" />
+<img width="683" height="329" alt="2_Region_basket_balls-out" src="https://github.com/user-attachments/assets/6a1fcba2-6c6a-402d-a0e4-de4be560ee1c" />
+<img width="683" height="329" alt="2_Region_data13-out" src="https://github.com/user-attachments/assets/11228a68-fccb-4a59-afb8-c5bdb0aa340f" />
+<img width="683" height="329" alt="2_Region_tiger1-out" src="https://github.com/user-attachments/assets/aec8ec29-9fc5-4b6f-b158-469388b42219" />
 
 ### 4) Image Segmentation
 Pixels are assigned to regions based on thresholds and color-coded:
