@@ -25,7 +25,7 @@ A normalized intensity histogram is calculated:
 - Probability distribution of pixel brightness
 
 This histogram represents how brightness values are distributed across the image.
-<img width="240" height="180" alt="basket_balls bmp_histogram" src="https://github.com/user-attachments/assets/92485998-631b-4074-a3fc-88fd8eacfaed" />
+<img width="440" height="280" alt="basket_balls bmp_histogram" src="https://github.com/user-attachments/assets/92485998-631b-4074-a3fc-88fd8eacfaed" />
 
 
 ### 3) Otsu Thresholding
