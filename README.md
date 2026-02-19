@@ -52,6 +52,17 @@ The method is extended to support:
 <img width="683" height="329" alt="2_Region_data13-out" src="https://github.com/user-attachments/assets/11228a68-fccb-4a59-afb8-c5bdb0aa340f" />
 <img width="683" height="329" alt="2_Region_tiger1-out" src="https://github.com/user-attachments/assets/aec8ec29-9fc5-4b6f-b158-469388b42219" />
 
+**3 Region:**
+
+<img width="683" height="329" alt="3_Region_basket_balls-out" src="https://github.com/user-attachments/assets/61152ac2-8190-4bd6-84e1-53bf85558448" />
+<img width="683" height="329" alt="3_Region_data13-out" src="https://github.com/user-attachments/assets/a43086de-d0a1-444a-94af-8281b960104b" />
+<img width="683" height="329" alt="3_Region_tiger1-out" src="https://github.com/user-attachments/assets/54881b92-c587-47f5-a5dd-8542d641d54c" />
+
+**4 Region:**
+<img width="683" height="329" alt="4_Region_basket_balls-out" src="https://github.com/user-attachments/assets/3cf4d43e-e3c6-4977-9a16-26fca1c44a42" />
+<img width="683" height="329" alt="4_Region_data13-out" src="https://github.com/user-attachments/assets/8647905b-6dea-471e-9398-6520f8b629f5" />
+<img width="683" height="329" alt="4_Region_tiger1-out" src="https://github.com/user-attachments/assets/1be2e83a-3522-4ebe-86e3-cf110d6c7361" />
+
 ### 4) Image Segmentation
 Pixels are assigned to regions based on thresholds and color-coded:
 - Region 1 -> Yellow
