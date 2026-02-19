@@ -26,6 +26,7 @@ A normalized intensity histogram is calculated:
 
 This histogram represents how brightness values are distributed across the image.
 
+
 <img width="360" height="280" alt="basket_balls bmp_histogram" src="https://github.com/user-attachments/assets/92485998-631b-4074-a3fc-88fd8eacfaed" />
 <img width="360" height="280" alt="data13 bmp_histogram" src="https://github.com/user-attachments/assets/b3e973e9-3157-46a3-a679-676f20d3463a" />
 <img width="360" height="280" alt="tiger1 bmp_histogram" src="https://github.com/user-attachments/assets/154c0190-8a0d-4611-a3a1-a900c50d4ad2" />
